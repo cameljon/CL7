@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\svc-student\desktop\cl7\cl7\main.cpp(74): warning C4101: 'randomAdjective': unreferenced local variable
+c:\users\svc-student\desktop\cl7\cl7\main.cpp(73): warning C4101: 'randomNoun': unreferenced local variable
+c:\users\svc-student\desktop\cl7\cl7\main.cpp(198): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CL7.vcxproj -> C:\Users\svc-student\Desktop\CL7\Debug\CL7.exe
+  CL7.vcxproj -> C:\Users\svc-student\Desktop\CL7\Debug\CL7.pdb (Partial PDB)

@@ -1,0 +1,9 @@
+roses
+violets
+sugars
+cats
+dogs
+pizzas
+computers
+robots
+dinosaurs
